@@ -11,9 +11,9 @@ website:
 
   navbar:
     background: "#cfe1ed"
-    right: 
+    left: 
       - text: Home
-        href: index.qmd
+        href: qmd/week1.qmd
       - text: Week 1
         href: qmd/week1.qmd
       - text: Week 2
