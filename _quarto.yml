@@ -13,7 +13,7 @@ website:
     background: "#cfe1ed"
     left: 
       - text: Home
-        href: qmd/week1.qmd
+        href: index.qmd
       - text: Week 1
         href: qmd/week1.qmd
       - text: Week 2
