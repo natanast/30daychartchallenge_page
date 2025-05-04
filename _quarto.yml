@@ -14,20 +14,17 @@ website:
     right: 
       - text: Home
         href: index.qmd
-      - text: About
-        href: qmd/about.qmd
-      - text: Publications
+      - text: Week 1
+        href: qmd/week1.qmd
+      - text: Week 2
         href: qmd/publications.qmd
-      - text: Visual Portfolio
+      - text: Week 3
         href: qmd/visual_portfolio.qmd
-      - text: Photography
+      - text: Week 4
         href: qmd/photography.qmd
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/natasa-anastasiadou-87405a220/
-        aria-label: LinkedIn
         
 
   page-footer: 
