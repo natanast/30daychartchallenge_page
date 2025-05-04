@@ -8,11 +8,11 @@ comments: false
 
 ### Comparisons
 
-#### Day 1
+#### Day 1 - Fractions
 
 ![](/fig/Day1.png){fig-align="center"}
 
-#### Day 2
+#### Day 2 - Slope
 
 ![](/fig/Day2.png){fig-align="center"}
 
