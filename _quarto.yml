@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/
+
+website:
+  search: false
+  title: "30 Day Chart Challenge"
+
+
+  navbar:
+    background: "#cfe1ed"
+    right: 
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: qmd/about.qmd
+      - text: Publications
+        href: qmd/publications.qmd
+      - text: Visual Portfolio
+        href: qmd/visual_portfolio.qmd
+      - text: Photography
+        href: qmd/photography.qmd
+      - icon: github
+        href: https://github.com/natanast
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/natasa-anastasiadou-87405a220/
+        aria-label: LinkedIn
+        
+
+  page-footer: 
+    border: true
+    left: "This page is built with ❤️, [Quarto](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/)."
+    right: "© 2025 Natasa Anastasiadou."
+
+
+format:
+  html:
+    css: sass/style.css
+    toc: false
+    minimal: false
+    smooth-scroll: true
+    theme: 
+      light: sass/theme-light.scss
+      dark:  sass/theme-dark.scss
+    toggle: true
+
+editor: visual
