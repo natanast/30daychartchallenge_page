@@ -11,17 +11,18 @@ website:
 
   navbar:
     background: "#cfe1ed"
-    left: 
+    left:
       - text: Home
         href: index.qmd
       - text: Week 1
         href: qmd/week1.qmd
       - text: Week 2
-        href: qmd/publications.qmd
+        href: qmd/week1.qmd
       - text: Week 3
-        href: qmd/visual_portfolio.qmd
+        href: qmd/week1.qmd
       - text: Week 4
-        href: qmd/photography.qmd
+        href: qmd/week1.qmd
+    right:
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub
