@@ -28,8 +28,7 @@ comments: false
 
 ![](/fig/Day5.png){fig-align="center"}
 
-#### Day 6 - Prompt: Florence Nightingale
+#### Day 6 - Prompt: Florence Nightingale (theme day)
 
 ![](/fig/Day6.png){fig-align="center"}
-
 :::

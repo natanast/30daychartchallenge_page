@@ -4,32 +4,19 @@ comments: false
 ---
 
 ::: column-page
-## Week 1
+## Week 2
 
-### Theme: Comparisons
+### Theme: Distributions
 
-#### Day 1 - Prompt: Fractions
+#### Day 7 - Prompt: Outliers
 
-![](/fig/Day1.png){fig-align="center"}
+#### Day 8 - Prompt: Slope
 
-#### Day 2 - Prompt: Slope
+#### Day 9 - Prompt: Circular
 
-![](/fig/Day2.png){fig-align="center"}
+#### Day 10 - Prompt: Big or Small
 
-#### Day 3 - Prompt: Circular
+#### Day 11 - Prompt: Ranking
 
-![](/fig/Day3.png){fig-align="center"}
-
-#### Day 4 - Prompt: Big or Small
-
-![](/fig/Day4.png){fig-align="center"}
-
-#### Day 5 - Prompt: Ranking
-
-![](/fig/Day5.png){fig-align="center"}
-
-#### Day 6 - Prompt: Florence Nightingale
-
-![](/fig/Day6.png){fig-align="center"}
-
+#### Day 12 - Prompt: Florence Nightingale
 :::
