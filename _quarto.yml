@@ -22,6 +22,8 @@ website:
         href: qmd/week3.qmd
       - text: Week 4
         href: qmd/week4.qmd
+      - text: Week 5
+        href: qmd/week5.qmd
     right:
       - icon: github
         href: https://github.com/natanast

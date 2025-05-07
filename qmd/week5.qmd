@@ -1,0 +1,22 @@
+---
+title: ""
+comments: false
+---
+
+::: column-page
+## Week 5
+
+### Theme: Uncertainties
+
+#### Day 25 - Prompt: Risk
+
+#### Day 26 - Prompt: Monochrome
+
+#### Day 27 - Prompt: Noise
+
+#### Day 28 - Prompt: Inclusion
+
+#### Day 29 - Prompt: Extraterrestrial
+
+#### Day 30 - Prompt: National Geographic (theme day)
+:::

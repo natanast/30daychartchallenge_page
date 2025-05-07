@@ -6,17 +6,17 @@ comments: false
 ::: column-page
 ## Week 4
 
-### Theme: Comparisons
+### Theme: Timeseries
 
-#### Day 1 - Prompt: Fractions
+#### Day 19 - Prompt: Smooth
 
-#### Day 2 - Prompt: Slope
+#### Day 20 - Prompt: Urbanization
 
-#### Day 3 - Prompt: Circular
+#### Day 21 - Prompt: Fossils
 
-#### Day 4 - Prompt: Big or Small
+#### Day 22 - Prompt: Stars
 
-#### Day 5 - Prompt: Ranking
+#### Day 23 - Prompt: Log Scale
 
-#### Day 6 - Prompt: Florence Nightingale
+#### Day 24 - Prompt: World Health Organization (data day)
 :::
