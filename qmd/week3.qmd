@@ -4,32 +4,31 @@ comments: false
 ---
 
 ::: column-page
-## Week 1
+## Week 3
 
-### Theme: Comparisons
+### Theme: Relationships
 
-#### Day 1 - Prompt: Fractions
+#### Day 13 - Prompt: Clusters
 
-![](/fig/Day1.png){fig-align="center"}
+![](/fig/Day13.png){fig-align="center"}
 
-#### Day 2 - Prompt: Slope
+#### Day 14 - Prompt: Kinship
 
-![](/fig/Day2.png){fig-align="center"}
+![](/fig/Day14.png){fig-align="center"}
 
-#### Day 3 - Prompt: Circular
+#### Day 15 - Prompt: Complicated
 
-![](/fig/Day3.png){fig-align="center"}
+![](/fig/Day15.png){fig-align="center"}
 
-#### Day 4 - Prompt: Big or Small
+#### Day 16 - Prompt: Negative
 
-![](/fig/Day4.png){fig-align="center"}
+![](/fig/Day16.png){fig-align="center"}
 
-#### Day 5 - Prompt: Ranking
+#### Day 17 - Prompt: Birds
 
-![](/fig/Day5.png){fig-align="center"}
+![](/fig/Day17.png){fig-align="center"}
 
-#### Day 6 - Prompt: Florence Nightingale
+#### Day 18 - Prompt: El Pais (theme day)
 
-![](/fig/Day6.png){fig-align="center"}
-
+![](/fig/Day18.png){fig-align="center"}
 :::
