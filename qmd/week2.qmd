@@ -10,13 +10,25 @@ comments: false
 
 #### Day 7 - Prompt: Outliers
 
-#### Day 8 - Prompt: Slope
+![](/fig/Day7.png){fig-align="center" width="2800"}
 
-#### Day 9 - Prompt: Circular
+#### Day 8 - Prompt: Histogram
 
-#### Day 10 - Prompt: Big or Small
+![](/fig/Day8.png){fig-align="center"}
 
-#### Day 11 - Prompt: Ranking
+#### Day 9 - Prompt: Diverging
 
-#### Day 12 - Prompt: Florence Nightingale
+![](/fig/Day9.png){fig-align="center"}
+
+#### Day 10 - Prompt: Multi-modal
+
+![](/fig/Day10.png){fig-align="center"}
+
+#### Day 11 - Prompt: Stripes
+
+![](/fig/Day11.png){fig-align="center"}
+
+#### Day 12 - Prompt: Data.gov (data day)
+
+![](/fig/Day12.png){fig-align="center"}
 :::

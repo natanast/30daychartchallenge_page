@@ -17,11 +17,11 @@ website:
       - text: Week 1
         href: qmd/week1.qmd
       - text: Week 2
-        href: qmd/week1.qmd
+        href: qmd/week2.qmd
       - text: Week 3
-        href: qmd/week1.qmd
+        href: qmd/week3.qmd
       - text: Week 4
-        href: qmd/week1.qmd
+        href: qmd/week4.qmd
     right:
       - icon: github
         href: https://github.com/natanast
