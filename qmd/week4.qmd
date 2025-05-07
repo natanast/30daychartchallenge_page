@@ -4,32 +4,19 @@ comments: false
 ---
 
 ::: column-page
-## Week 1
+## Week 4
 
 ### Theme: Comparisons
 
 #### Day 1 - Prompt: Fractions
 
-![](/fig/Day1.png){fig-align="center"}
-
 #### Day 2 - Prompt: Slope
-
-![](/fig/Day2.png){fig-align="center"}
 
 #### Day 3 - Prompt: Circular
 
-![](/fig/Day3.png){fig-align="center"}
-
 #### Day 4 - Prompt: Big or Small
-
-![](/fig/Day4.png){fig-align="center"}
 
 #### Day 5 - Prompt: Ranking
 
-![](/fig/Day5.png){fig-align="center"}
-
 #### Day 6 - Prompt: Florence Nightingale
-
-![](/fig/Day6.png){fig-align="center"}
-
 :::
