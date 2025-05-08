@@ -10,13 +10,25 @@ comments: false
 
 #### Day 25 - Prompt: Risk
 
+![](/fig/Day25.png){fig-align="center"}
+
 #### Day 26 - Prompt: Monochrome
+
+![](/fig/Day26.png){fig-align="center"}
 
 #### Day 27 - Prompt: Noise
 
+![](/fig/Day27.png){fig-align="center"}
+
 #### Day 28 - Prompt: Inclusion
+
+![](/fig/Day28.png){fig-align="center"}
 
 #### Day 29 - Prompt: Extraterrestrial
 
+![](/fig/Day29.png){fig-align="center"}
+
 #### Day 30 - Prompt: National Geographic (theme day)
+
+![](/fig/Day30.png){fig-align="center"}
 :::
