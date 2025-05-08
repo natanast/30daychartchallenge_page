@@ -12,7 +12,9 @@ The **#30DayChartChallenge** is a data visualization event where participants cr
 
 Check out the challenge details on the official [GitHub](https://github.com/30DayChartChallenge/Edition2025) page.
 
-Feel free to explore the charts by day using the navigation menu above!
+You can find all the code, data, and individual plots in my GitHub [repository](https://github.com/natanast/30DayChartChallenge).
+
+Feel free to explore the charts by week and day using the navigation menu above!
 
 ![](fig/challenge.png){width="850"}
 :::
