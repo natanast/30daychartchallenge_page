@@ -10,13 +10,25 @@ comments: false
 
 #### Day 19 - Prompt: Smooth
 
+![](/fig/Day19.png){fig-align="center"}
+
 #### Day 20 - Prompt: Urbanization
+
+![](/fig/Day20.png){fig-align="center"}
 
 #### Day 21 - Prompt: Fossils
 
+![](/fig/Day21.png){fig-align="center"}
+
 #### Day 22 - Prompt: Stars
+
+![](/fig/Day22.png){fig-align="center"}
 
 #### Day 23 - Prompt: Log Scale
 
+![](/fig/Day23.png){fig-align="center"}
+
 #### Day 24 - Prompt: World Health Organization (data day)
+
+![](/fig/Day24.png){fig-align="center"}
 :::
