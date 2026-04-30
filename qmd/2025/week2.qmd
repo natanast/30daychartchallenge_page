@@ -10,25 +10,25 @@ comments: false
 
 #### Day 7 - Prompt: Outliers
 
-![](/fig/Day7.png){fig-align="center" width="2800"}
+![](/fig/2025/Day7.png){fig-align="center" width="2800"}
 
 #### Day 8 - Prompt: Histogram
 
-![](/fig/Day8.png){fig-align="center"}
+![](/fig/2025/Day8.png){fig-align="center"}
 
 #### Day 9 - Prompt: Diverging
 
-![](/fig/Day9.png){fig-align="center"}
+![](/fig/2025/Day9.png){fig-align="center"}
 
 #### Day 10 - Prompt: Multi-modal
 
-![](/fig/Day10.png){fig-align="center"}
+![](/fig/2025/Day10.png){fig-align="center"}
 
 #### Day 11 - Prompt: Stripes
 
-![](/fig/Day11.png){fig-align="center"}
+![](/fig/2025/Day11.png){fig-align="center"}
 
 #### Day 12 - Prompt: Data.gov (data day)
 
-![](/fig/Day12.png){fig-align="center"}
+![](/fig/2025/Day12.png){fig-align="center"}
 :::

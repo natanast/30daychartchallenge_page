@@ -15,20 +15,6 @@ website:
         href: index.qmd
       
 
-      - text: "2026"
-        menu:
-          - text: "Week 1 (Comparisons)"
-            href: qmd/2026/week1.qmd
-          - text: "Week 2 (Distributions)"
-            href: qmd/2026/week2.qmd
-          - text: "Week 3 (Relationships)"
-            href: qmd/2026/week3.qmd
-          - text: "Week 4 (Timeseries)"
-            href: qmd/2026/week4.qmd
-          - text: "Week 5 (Uncertainties)"
-            href: qmd/2026/week5.qmd
-            
-
       - text: "2025"
         menu:
           - text: "Week 1 (Comparisons)"
@@ -41,6 +27,20 @@ website:
             href: qmd/2025/week4.qmd
           - text: "Week 5 (Uncertainties)"
             href: qmd/2025/week5.qmd
+            
+
+      - text: "2026"
+        menu:
+          - text: "Week 1 (Comparisons)"
+            href: qmd/2026/week1.qmd
+          - text: "Week 2 (Distributions)"
+            href: qmd/2026/week2.qmd
+          - text: "Week 3 (Relationships)"
+            href: qmd/2026/week3.qmd
+          - text: "Week 4 (Timeseries)"
+            href: qmd/2026/week4.qmd
+          - text: "Week 5 (Uncertainties)"
+            href: qmd/2026/week5.qmd
 
     right:
       - icon: github

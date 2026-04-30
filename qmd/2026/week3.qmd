@@ -10,25 +10,25 @@ comments: false
 
 #### Day 13 - Prompt: Clusters
 
-![](/fig/Day13.png){fig-align="center"}
+![](/fig/2026/Day13.png){fig-align="center"}
 
 #### Day 14 - Prompt: Kinship
 
-![](/fig/Day14.png){fig-align="center"}
+![](/fig/2026/Day14.png){fig-align="center"}
 
 #### Day 15 - Prompt: Complicated
 
-![](/fig/Day15.png){fig-align="center"}
+![](/fig/2026/Day15.png){fig-align="center"}
 
 #### Day 16 - Prompt: Negative
 
-![](/fig/Day16.png){fig-align="center"}
+![](/fig/2026/Day16.png){fig-align="center"}
 
 #### Day 17 - Prompt: Birds
 
-![](/fig/Day17.png){fig-align="center"}
+![](/fig/2026/Day17.png){fig-align="center"}
 
 #### Day 18 - Prompt: El Pais (theme day)
 
-![](/fig/Day18.png){fig-align="center"}
+![](/fig/2026/Day18.png){fig-align="center"}
 :::
