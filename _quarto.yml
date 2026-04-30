@@ -31,15 +31,15 @@ website:
 
       - text: "2025"
         menu:
-          - text: "Week 1"
+          - text: "Week 1 (Comparisons)"
             href: qmd/2025/week1.qmd
-          - text: "Week 2"
+          - text: "Week 2 (Distributions)"
             href: qmd/2025/week2.qmd
-          - text: "Week 3"
+          - text: "Week 3 (Relationships)"
             href: qmd/2025/week3.qmd
-          - text: "Week 4"
+          - text: "Week 4 (Timeseries)"
             href: qmd/2025/week4.qmd
-          - text: "Week 5"
+          - text: "Week 5 (Uncertainties)"
             href: qmd/2025/week5.qmd
 
     right:

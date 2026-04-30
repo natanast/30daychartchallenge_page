@@ -16,5 +16,5 @@ You can find all the code, data, and individual plots in my GitHub [repository](
 
 Feel free to explore the charts by week and day using the navigation menu above!
 
-![](fig/challenge.png){width="850"}
+![](fig/challenge2026.jpg) ![](fig/challenge2025.png)
 :::
