@@ -8,33 +8,49 @@ website:
   search: false
   title: "30 Day Chart Challenge"
 
-
   navbar:
     background: "#cfe1ed"
     left:
       - text: Home
         href: index.qmd
-      - text: Week 1
-        href: qmd/week1.qmd
-      - text: Week 2
-        href: qmd/week2.qmd
-      - text: Week 3
-        href: qmd/week3.qmd
-      - text: Week 4
-        href: qmd/week4.qmd
-      - text: Week 5
-        href: qmd/week5.qmd
+      
+
+      - text: "2026"
+        menu:
+          - text: "Week 1 (Comparisons)"
+            href: qmd/2026/week1.qmd
+          - text: "Week 2 (Distributions)"
+            href: qmd/2026/week2.qmd
+          - text: "Week 3 (Relationships)"
+            href: qmd/2026/week3.qmd
+          - text: "Week 4 (Timeseries)"
+            href: qmd/2026/week4.qmd
+          - text: "Week 5 (Uncertainties)"
+            href: qmd/2026/week5.qmd
+            
+
+      - text: "2025"
+        menu:
+          - text: "Week 1"
+            href: qmd/2025/week1.qmd
+          - text: "Week 2"
+            href: qmd/2025/week2.qmd
+          - text: "Week 3"
+            href: qmd/2025/week3.qmd
+          - text: "Week 4"
+            href: qmd/2025/week4.qmd
+          - text: "Week 5"
+            href: qmd/2025/week5.qmd
+
     right:
       - icon: github
         href: https://github.com/natanast
         aria-label: GitHub
         
-
   page-footer: 
     border: true
     left: "This page is built with ❤️, [Quarto](https://quarto.org/) and is licensed under [**CC BY-SA 4.0**](http://creativecommons.org/licenses/by-sa/4.0/)."
-    right: "© 2025 Natasa Anastasiadou."
-
+    right: "© 2026 Natasa Anastasiadou."
 
 format:
   html:
